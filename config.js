@@ -1,6 +1,6 @@
-global.owner = ['6285655807787'] // Put your number here
-global.mods = ['6285655807787'] // Want some help?
-global.prems = ['6285655807787'] // Premium user has unlimited limit
+global.owner = ['6281322577123'] // Put your number here
+global.mods = ['6281322577123'] // Want some help?
+global.prems = ['6281322577123'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -43,8 +43,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `𝙰𝙽𝙶𝙶𝙰𝙽 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻`
-global.wm = '𝙰𝙽𝙶𝙶𝙰𝙽 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻' //Nama Bot
+global.author = `KAMAGAPO BOT`
+global.wm = 'KAMAGAPO BOT' //Nama Bot
 global.watermark = wm
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.instagram = 'https://instagram.com/angganaudio'
